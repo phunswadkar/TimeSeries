@@ -12,4 +12,4 @@ We have used some of the most comparable models of Time Series Forecasting to co
 The best model for forecasting the sales data of Vitacost for the year 2023 is the Two-Level Model: Regression with Quadratic Trend and Seasonality + AR (8) for Residuals. We have constructed these models using R as the statistical tool and have tried to learn some of the unexplored relationships in the historical sales data of Vitacost, via various Graphs and Time Series components.
 
 
-[!image](.Vitacost.jpeg)
+[!image](./Vitacost.jpeg)
